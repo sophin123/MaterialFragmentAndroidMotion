@@ -15,3 +15,6 @@ code is available on the `complete` branch, which can you can checkout by
 running `git checkout complete`.
 
 <img src="screenshots/reply-transitions.gif" alt="Reply transitions"/>
+
+Note:
+All the credit goes to codeLabs. To learn about more visit codelabs.developers.android.com
